@@ -15,3 +15,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
 end
+
+# TODO: remove before pushing to github?
+# gem "minimal-mistakes-jekyll"
+# gem "webrick", "~> 1.8"
